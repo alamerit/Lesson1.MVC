@@ -1,15 +1,16 @@
-package geekbrains.ru.lesson1mvc;
-
-import androidx.annotation.NonNull;
-import androidx.appcompat.app.AppCompatActivity;
+package geekbrains.ru.lesson1mvc.lessonOne;
 
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import androidx.annotation.NonNull;
+import androidx.appcompat.app.AppCompatActivity;
+
 import java.util.HashMap;
 import java.util.Map;
-import java.util.TreeMap;
+
+import geekbrains.ru.lesson1mvc.R;
 
 
 public class MainActivity extends AppCompatActivity implements MainView, View.OnClickListener{

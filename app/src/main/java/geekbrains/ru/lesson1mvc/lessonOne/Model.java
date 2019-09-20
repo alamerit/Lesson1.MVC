@@ -1,4 +1,4 @@
-package geekbrains.ru.lesson1mvc;
+package geekbrains.ru.lesson1mvc.lessonOne;
 
 import java.util.Arrays;
 import java.util.List;

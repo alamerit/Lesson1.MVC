@@ -1,8 +1,5 @@
-package geekbrains.ru.lesson1mvc;
-import android.os.Build;
+package geekbrains.ru.lesson1mvc.lessonOne;
 import android.util.Log;
-
-import androidx.annotation.RequiresApi;
 
 import java.util.Map;
 import java.util.Set;
